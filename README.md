@@ -220,5 +220,5 @@ Contributions, issues, and feature requests are welcome!
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/zfrfrfzl">zfrfrfzl</a>
+  Made with ❤️ by <a href="https://github.com/zfebryan">zfebryan</a>
 </p>
