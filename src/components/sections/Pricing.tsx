@@ -71,7 +71,7 @@ const Pricing = () => {
               >
                 {/* Popular Badge */}
                 {plan.highlighted && (
-                  <div className="absolute -top-4 left-1/2 -translate-x-1/2">
+                  <div className="absolute left-1/2 -translate-x-1/2">
                     <span className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-gradient-to-r from-violet-600 to-indigo-600 text-white text-sm font-medium shadow-lg shadow-violet-500/30">
                       <Sparkles className="w-4 h-4" />
                       Paling Populer

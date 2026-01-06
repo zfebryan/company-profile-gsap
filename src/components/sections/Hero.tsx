@@ -70,7 +70,7 @@ const Hero = () => {
           className="text-center max-w-5xl mx-auto"
         >
           {/* Badge */}
-          <motion.div variants={fadeInUp} className="mb-6">
+          <motion.div variants={fadeInUp} className="mb-6 mt-12">
             <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-violet-500/10 border border-violet-500/20 text-violet-400 text-sm font-medium">
               <span className="relative flex h-2 w-2">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-violet-400 opacity-75" />
